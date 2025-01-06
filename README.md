@@ -65,11 +65,7 @@ Le programme gère les cas suivants :
 
 
 
-![contqct](https://github.com/user-attachments/assets/b9562676-53b9-4336-a5fd-8cd1e9b6b9ab)
+
+![contqct](https://github.com/user-attachments/assets/3ec634cc-3bab-423e-a90d-d3009ba2128b)
 
 
----
-
-## Licence
-
-Ce projet est sous licence [MIT](LICENSE).
