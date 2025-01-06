@@ -61,7 +61,10 @@ Le programme gère les cas suivants :
 ## Auteur
 
 - **Développeur | ديفلوبور**
-![contactPic](https://github.com/user-attachments/assets/bc745863-3f0c-4515-94ef-a727287be599)
+
+
+![all](https://github.com/user-attachments/assets/51018cde-84f4-45c4-aa43-ef61e0f10b53)
+
 
 
 ---
